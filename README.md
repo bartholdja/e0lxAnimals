@@ -1,5 +1,5 @@
-Life-expectancy at Birth versus Lifespan Equality
+Life expectancy at birth versus life span equality
 =================================================
 
-Exploring the Relationship between Life-expectancy at Birth, Lifespan Equality, shared
-Life and other related Measures across the Animal Kingdom.
+Exploring the relationship between life expectancy, lifespan equality, length of shared
+life, and other related measures across the animal kingdom.
