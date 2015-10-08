@@ -25,15 +25,17 @@ vignettes/*.pdf
 .Rproj.user
 <<<<<<< HEAD
 
-# the data file
+# the data folder
 data
 =======
 >>>>>>> 19d7e730132b00fa771ed20f2399a6d6cf61ffb0
 
 # pdf files
-
 *.pdf
 
 # all files that start with temp
 temp*
+
+# the miscellaneous folder
+misc
 
