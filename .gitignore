@@ -1,0 +1,39 @@
+# General ---------------------------------------------------------------------
+
+lit
+misc
+priv
+
+# R specific ------------------------------------------------------------------
+
+# History files
+.Rhistory
+.Rapp.history
+
+# Example code in package build process
+*-Ex.R
+
+# RStudio files
+.Rproj.user/
+
+# produced vignettes
+vignettes/*.html
+vignettes/*.pdf
+
+# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
+.httr-oauth
+.Rproj.user
+<<<<<<< HEAD
+
+# the data file
+data
+=======
+>>>>>>> 19d7e730132b00fa771ed20f2399a6d6cf61ffb0
+
+# pdf files
+
+*.pdf
+
+# all files that start with temp
+temp*
+
