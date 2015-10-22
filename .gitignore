@@ -16,6 +16,9 @@ priv
 # RStudio files
 .Rproj.user/
 
+# rds files
+.rds
+
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
