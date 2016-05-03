@@ -16,3 +16,5 @@ Exploring the relationship between the shape of age-specific mortality and the p
 There is also an R-project called __paceShape.Rproj__
 
 
+The misc and doc folder and all files starting with temp do not get stored on github (i.e. they are in the .gitignore with the usual suspects).
+
