@@ -10,7 +10,7 @@ Exploring the relationship between the shape of age-specific mortality and the p
 * scr: scripts (init: set wd and load library, input: load/read in data, process: transform data, plot: plot the results)
 * misc: miscellaneous 
 * out: plots
-* archived: outdated plots or R-scripts that might be useful to have at hand
+* 	archived: outdated plots or R-scripts that might be useful to have at hand
 
 
 There is also an R-project called __paceShape.Rproj__
