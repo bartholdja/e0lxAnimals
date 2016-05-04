@@ -1,13 +1,5 @@
 rm(list = ls())
 
-if ("jabarthold" %in% list.files("/Users/")) {
-setwd("/Users/jabarthold/Dropbox/Projects/014_sociality/e0lxAnimals/")
-}
-
-if ("Viktualia" %in% list.files("/Users/")) {
-    setwd("/Users/Viktualia/Dropbox/Projects/014_sociality/e0lxAnimals/")
-}
-
 library(devtools)
 library(MASS)
 library(ggplot2)

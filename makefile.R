@@ -1,12 +1,12 @@
 # Make file for analysis ----------------------------------------------------
+
+
+# The Rproject is set to not store the workspace into .Rdata at the end of session
+# The Rproject is set to not load any .Rdata automatically on startup.
+
 # dependencies:
-rm(list = ls())
+
 # run the source code
-if ("jabarthold" %in% list.files("/Users/")) {
-  source("/Users/jabarthold/Dropbox/Projects/020_paceShape/scr/animals/01_init.R")
-} else {
-  source("/Users/Viktualia/Dropbox/Projects/020_paceShape/scr/animals/01_init.R")
-}
 
 source("scr/animals/02_input.R")
 source("scr/animals/03_fcts.R")
